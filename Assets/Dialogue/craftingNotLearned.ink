@@ -1,0 +1,1 @@
+Tu n'as pas encore appris à utiliser une table de craft, réessaies plus tard ! 

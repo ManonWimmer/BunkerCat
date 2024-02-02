@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: fa5a3c2ab117b0044afea36c31c746b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -3}
+        - {x: -10, y: -3}
+        - {x: -10, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -9}
+        - {x: -5, y: -9}
+        - {x: -5, y: -10}
+        - {x: -4, y: -10}
+        - {x: -4, y: -11}
+        - {x: 1, y: -11}
+        - {x: 1, y: -12}
+        - {x: 4, y: -12}
+        - {x: 4, y: -13}
+        - {x: 10, y: -13}
+        - {x: 10, y: -12}
+        - {x: 13, y: -12}
+        - {x: 13, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375e784cee409004ca012d7d2926ba9d
+      internalID: -1642605401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -13, y: -12}
+        - {x: -10, y: -12}
+        - {x: -10, y: -13}
+        - {x: -4, y: -13}
+        - {x: -4, y: -12}
+        - {x: -1, y: -12}
+        - {x: -1, y: -11}
+        - {x: 4, y: -11}
+        - {x: 4, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: -9}
+        - {x: 6, y: -9}
+        - {x: 6, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -7}
+        - {x: 9, y: -7}
+        - {x: 9, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -3}
+        - {x: 11, y: -3}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8e20e600e8d74895e31a2bfffb0e7
+      internalID: -1933015641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 15}
+        - {x: -15, y: 15}
+        - {x: -15, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: 13}
+        - {x: -13, y: 13}
+        - {x: -11, y: 13}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce29a471bc8b003419b6104f2c487ec1
+      internalID: -555921968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 11}
+        - {x: 11, y: 13}
+        - {x: 13, y: 13}
+        - {x: 14, y: 13}
+        - {x: 14, y: 14}
+        - {x: 15, y: 14}
+        - {x: 15, y: 15}
+        - {x: 16, y: 15}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5909332443d8f104da0c9fc787871208
+      internalID: -400207068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -3}
+        - {x: -10, y: -3}
+        - {x: -10, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -9}
+        - {x: -5, y: -9}
+        - {x: -5, y: -10}
+        - {x: -4, y: -10}
+        - {x: -4, y: -11}
+        - {x: 1, y: -11}
+        - {x: 1, y: -12}
+        - {x: 4, y: -12}
+        - {x: 4, y: -13}
+        - {x: 10, y: -13}
+        - {x: 10, y: -12}
+        - {x: 13, y: -12}
+        - {x: 13, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a21c641f6fca72478c9f649264c7275
+      internalID: -247291154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -13}
+        - {x: -13, y: -12}
+        - {x: -10, y: -12}
+        - {x: -10, y: -13}
+        - {x: -4, y: -13}
+        - {x: -4, y: -12}
+        - {x: -1, y: -12}
+        - {x: -1, y: -11}
+        - {x: 4, y: -11}
+        - {x: 4, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: -9}
+        - {x: 6, y: -9}
+        - {x: 6, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -7}
+        - {x: 9, y: -7}
+        - {x: 9, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -3}
+        - {x: 11, y: -3}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421998c87def71547a5b3b69b16e9fc5
+      internalID: 1707954459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d83d80b63c66c4db70834bf76d177d
+      internalID: -36546607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093ba0ce841bcd4382edede414ef58a
+      internalID: -89556162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: -10}
+        - {x: 10, y: -10}
+        - {x: 10, y: -8}
+        - {x: 9, y: -8}
+        - {x: 9, y: -6}
+        - {x: 10, y: -6}
+        - {x: 10, y: -3}
+        - {x: 11, y: -3}
+        - {x: 11, y: -1}
+        - {x: 14, y: -1}
+        - {x: 14, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa88a32b15de53478b1e7b6c5cfc256
+      internalID: -1639727748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 0}
+        - {x: -14, y: 0}
+        - {x: -14, y: -1}
+        - {x: -11, y: -1}
+        - {x: -11, y: -3}
+        - {x: -10, y: -3}
+        - {x: -10, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -8}
+        - {x: -10, y: -8}
+        - {x: -10, y: -10}
+        - {x: -11, y: -10}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548de04e12b21741ad83fa02e7dff3a
+      internalID: -1398158394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef24ee1ea10e64db9f567503317b60
+      internalID: -765880035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -13}
+        - {x: -14, y: -14}
+        - {x: -12, y: -14}
+        - {x: -12, y: -15}
+        - {x: -11, y: -15}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d5b654f647cfd4a93f1a87fb97eaee
+      internalID: 2065307204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce06ffa82a0ab48a77b1f26cb2dc0d
+      internalID: -568805816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcdc1d2e746a8e46882678e3e3f1c06
+      internalID: -755005721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8cf92e76e626428867e4682eed706
+      internalID: -1522808255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_PlateformesClimb_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbca7243d4c3274fac510aa7e5f9431
+      internalID: -1322427861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c463afdf18dd884492aa3a84d208352
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset_PlateformesClimb_8: -1639727748
+      Tileset_PlateformesClimb_4: -247291154
+      Tileset_PlateformesClimb_10: -765880035
+      Tileset_PlateformesClimb_3: -400207068
+      Tileset_PlateformesClimb_13: -755005721
+      Tileset_PlateformesClimb_0: -1642605401
+      Tileset_PlateformesClimb_5: 1707954459
+      Tileset_PlateformesClimb_11: 2065307204
+      Tileset_PlateformesClimb_12: -568805816
+      Tileset_PlateformesClimb_9: -1398158394
+      Tileset_PlateformesClimb_6: -36546607
+      Tileset_PlateformesClimb_7: -89556162
+      Tileset_PlateformesClimb_14: -1522808255
+      Tileset_PlateformesClimb_1: -1933015641
+      Tileset_PlateformesClimb_2: -555921968
+      Tileset_PlateformesClimb_15: -1322427861
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

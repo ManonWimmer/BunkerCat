@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7af2515ea68d73140bee620e57bffbbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemPrefab: {fileID: 1933818005150386613, guid: c88560378474e0943bb3e8c7dd942c6c,
+      type: 3}
+  - contentPanel: {instanceID: 0}
+  - itemDescription: {instanceID: 0}
+  - mouseFollower: {instanceID: 0}
+  - actionPanel: {instanceID: 0}
+  - gamepadCursor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
